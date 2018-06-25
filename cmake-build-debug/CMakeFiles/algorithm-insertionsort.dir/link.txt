@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/algorithm-insertionsort.dir/src_and_header/main.cpp.o CMakeFiles/algorithm-insertionsort.dir/src_and_header/insertionsort.cpp.o  -o algorithm-insertionsort 

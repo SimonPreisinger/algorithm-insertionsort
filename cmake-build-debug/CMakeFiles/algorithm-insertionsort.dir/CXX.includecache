@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/simon/projects/algorithm/algorithm-insertionsort/src_and_header/insertionsort.cpp
+insertionsort.h
+/home/simon/projects/algorithm/algorithm-insertionsort/src_and_header/insertionsort.h
+
+/home/simon/projects/algorithm/algorithm-insertionsort/src_and_header/insertionsort.h
+
+/home/simon/projects/algorithm/algorithm-insertionsort/src_and_header/main.cpp
+iostream
+-
+insertionsort.h
+/home/simon/projects/algorithm/algorithm-insertionsort/src_and_header/insertionsort.h
+
